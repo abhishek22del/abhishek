@@ -1,0 +1,16 @@
+Use Test Case 1:
+Input:  The total Number of company counts that could be N.
+Desired Output: The data with the highest stock rate will be displayed
+Output: The data with the highest stock rate will be displayed
+
+Use Test Case 2:
+Input: The Number of months and years could be N
+Desired Output: The data with the highest stock rate will be displayed
+Output: The data with the highest stock rate will be displayed
+
+Use Test Case 3:
+Input: If some stock rate is missing for some company for a particular month or year
+Desired Output: Exception will be thrown.
+Output: The console will print the exception thrown.
+
+
